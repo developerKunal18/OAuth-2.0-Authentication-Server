@@ -1,0 +1,12 @@
+Example Login Request
+POST /login
+
+{
+    "username": "admin",
+    "password": "admin123"
+}
+
+Example Response
+{
+    "access_token": "eyJhbGciOi..."
+}
