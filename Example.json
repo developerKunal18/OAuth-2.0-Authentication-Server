@@ -1,12 +1,12 @@
-Example Login Request
-POST /login
+# Example Login Request
+# POST /login
 
 {
     "username": "admin",
     "password": "admin123"
 }
 
-Example Response
+# Example Response
 {
     "access_token": "eyJhbGciOi..."
 }
